@@ -1,6 +1,0 @@
-framework module Tanjiro {
-  umbrella header "Tanjiro-umbrella.h"
-
-  export *
-  module * { export * }
-}
